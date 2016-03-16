@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<member id="m_sotiropoulos" group="g_istlab g_wrc" joined="20130101">
+	<givenname>Dionisios</givenname>
+	<surname>Sotiropoulos</surname>
+	<memb_title>Dr.</memb_title>
+	<email>dsotirop@aueb.gr</email>
+	<!--<web_site>http://www.mobiforum.org/mobiforum/wrc_member.php?name=Giaglhs</web_site>-->
+	<office_phone>+30 2108203855</office_phone>
+	<fax>+30 2108203682</fax>
+	<office_address>Evelpidon 47-A &amp; Lefkados 33, Office 907</office_address>
+	<postal_address>Evelpidon 47-A &amp; Lefkados 33, 11362, Athens, Greece</postal_address>
+	<photo>../images/sotiropoulos.jpg</photo>
+	<shortcv>
+		<p>
+		Dr. Dionysios N. Sotiropoulos received his Ph.D. in Computer Science from the Department of Informatics at the University of Piraeus, Greece in 2011. 
+		He holds a B.Sc. degree in Computer Science since 2003. He is currently working a post-doctoral researcher at Athens University of Economics and Business 
+		in the Department of Management Science and Technology as a member of SocioMine. He is also a visiting researcher at Norwich Business School, 
+		University of East Anglia. His primary research interests are in the areas of machine learning, data mining, evolutionary computing and signal processing, 
+		and applications in user modeling, information retrieval and intelligent software systems. His interest in Digital Social Media lies in the development of 
+		machine learning and pattern recognition algorithms for data mining purposes within the context of online social networks. 
+		(<a href="http://istlab.dmst.aueb.gr/wrc">http://istlab.dmst.aueb.gr/wrc/</a>, 
+		<a href="http://www.wirelessresearch.eu" target="_blank">http://www.wirelessresearch.eu/</a>)
+	        </p>
+	</shortcv>
+</member>
