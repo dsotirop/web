@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<member id="m_manou" group="g_istlab g_wrc" joined="20130101">
+	<givenname>Olga</givenname>
+	<surname>Manou</surname>
+	<memb_title>PhD Candidate</memb_title>
+	<email>omanou@aueb.gr </email>
+	<!--<web_site>http://www.mobiforum.org/mobiforum/wrc_member.php?name=Giaglhs</web_site>-->
+	<office_phone>+30 2108203855</office_phone>
+	<fax>+30 2108203682</fax>
+	<office_address>Evelpidon 47-A &amp; Lefkados 33, Office 907</office_address>
+	<postal_address>Evelpidon 47-A &amp; Lefkados 33, 11362, Athens, Greece</postal_address>
+	<photo>../images/manou.jpg</photo>
+	<shortcv>
+		<p>
+         Olga Manou is a Doctoral Researcher and a Research Associate at the Wireless Research Center of AUEB-RC. She holds a Dipl. 
+		 in Financial and Management Engineering and a MSc in Applied Economics and Finance. Her main research focus lies in the areas 
+		 of the theory of digital currencies and the applications of the blockchain technology. She has worked for more than 6 years as 
+		 a Business Consultant in multinational companies involved mainly, in large scale multidisciplinary projects in the IT and business 
+		 development sector.
+		(<a href="http://istlab.dmst.aueb.gr/wrc">http://istlab.dmst.aueb.gr/wrc/</a>, 
+		<a href="http://www.wirelessresearch.eu" target="_blank">http://www.wirelessresearch.eu/</a>)
+	        </p>
+	</shortcv>
+</member>
